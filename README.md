@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working as Software Engineer Trainee
-
+I'm currently working as Software Engineer Trainee.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rishav_sht_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RishavShrestha) 
